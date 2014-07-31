@@ -1,0 +1,24 @@
+{
+  "name": "www.supportyourhood.com",
+  "version": "0.0.0",
+  "description": "Support Your Hood Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/murphdog/www.supportyourhood.com.git"
+  },
+  "author": "Ryan Murphy <ryan@shamrockdesign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murphdog/www.supportyourhood.com/issues"
+  },
+  "homepage": "https://github.com/murphdog/www.supportyourhood.com",
+  "dependencies": {
+    "envigor": "^0.6.0",
+    "express": "^4.7.2",
+    "jade": "^1.5.0"
+  }
+}
