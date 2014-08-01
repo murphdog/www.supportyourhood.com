@@ -5,4 +5,6 @@ html(lang="en")
   body
     h1 Support Your Hood
     h2= neighborhood
-    
+    form(action="/subscribe")
+      input(name="email", type="email", required)
+      button Subscribe
